@@ -1,0 +1,9 @@
+{
+    "errors": {
+        "-1": "A general error occurs (no specified reason).",
+        "-2": "The parameter is invalid.",
+        "-7": "The SDK is not initialized.",
+        "-22": "The resource request failed. The SDK fails to allocate resources because your app consumes too much system resource or the system resources are insufficient.",
+        "-101": "The App ID is invalid."
+    }
+}

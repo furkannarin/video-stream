@@ -1,0 +1,40 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.node-version": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/tmp": true,
+        "**/node_modules": true,
+        "**/ios": true,
+        "**/android": true,
+        "**/dist": true,
+        "**/build": true,
+        "**/buckconfig": true,
+        "**/Gemfile": true,
+        "**/yarn.lock": true,
+        "**/.buckconfig": true,
+        "**/.ruby-version": true,
+        "**/babel.config.js": false,
+        "**/.watchmanconfig": true,
+        "**/Gemfile.lock": true,
+        "**/app.json": true,
+        "**/package-lock.json": true,
+        "**/metro.config.js": true,
+        "**/prettier.rc": false,
+        "**/.bundle": true,
+        "**/.eslintrc.json": false
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/tmp/**": true,
+        "**/bower_components/**": true,
+        "**/os/**": true,
+        "**/android/**": true,
+        "**/dist/**": true
+    }
+}

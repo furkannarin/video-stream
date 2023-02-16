@@ -1,0 +1,22 @@
+{
+    "login": {
+        "login": "Giriş Yap",
+        "name": "İsim Soyisim",
+        "email": "E-Posta",
+        "consultant": "Psikolog Olarak Giriş Yap",
+        "user": "Danışan Olarak Giriş Yap"
+    },
+    "lobby": {
+        "connect": "BAĞLAN",
+        "connectionId": "Bağlantı Numarasını Girin",
+        "join": "Seansa Katıl"
+    },
+    "user": {
+        "greetingMsg": "Merhaba ",
+        "meeting": "Psikolog Bekleniyor"
+    },
+    "consultant": {
+        "greetingMsg": "İyi Günler ",
+        "meeting": "Danışan Bekleniyor"
+    }
+}
